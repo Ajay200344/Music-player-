@@ -5,7 +5,7 @@ const next = document.getElementById('next');
 const progressBar = document.getElementById('progress-bar');
 const duration=document.getElementById('duration');
 const sources = {
- src1:"Beast Mass Bgm _ Thalapathy 65 Bgm Ringtone _ Beast Theme _ Beast Thalapathy Theme Music _ AA BGM.m4a",
+ src1:"MARCO[ TONY'S MAYHEM ] BGMMARCO JAGADISH RAVI BASRUR HANEEF ADENI #shorts #shortsfeed.mp3",
  scr2:"Marco Teaser Theme  Unni Mukundan  Shareef Muhammed  Haneef Adeni  Ravi Basrur.mp3",
  src3:"Kaththi Theme…The Sword of Destiny - Full Audio.m4a",
  src4:"Devara _ The Revelation BGM  Jr. NTR  Anirudh  High Quality BGM  FLM  Nadh Brothers.mp3",
@@ -14,7 +14,7 @@ const sources = {
  src7:"Once Upon A Time Lyric Video Song _ Vikram Hit List _ Kamal Haasan, Fahadh Faasil, Vijay Sethupathi.m4a",
  src8:"Rolex Entry Bgm _ Rolex Entry Full Bgm _ Lokiverse Bgm _ [Download Link].m4a",
  src9:"The Real Og.mp3",
- src10:"MARCO[ TONY'S MAYHEM] BGMMARCO JAGADISH RAVI BASRUR HANEEF ADENI #shorts #shortsfeed.mp3"
+ src10:"Beast Mass Bgm _ Thalapathy 65 Bgm Ringtone _ Beast Theme _ Beast Thalapathy Theme Music _ AA BGM.m4a"
 };
 
 // Toggle play/pause
