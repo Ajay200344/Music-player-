@@ -5,7 +5,7 @@ const next = document.getElementById('next');
 const progressBar = document.getElementById('progress-bar');
 const duration=document.getElementById('duration');
 const sources = {
- src1:"MARCO[ TONY'S MAYHEM ] BGMMARCO JAGADISH RAVI BASRUR HANEEF ADENI #shorts #shortsfeed.mp3",
+ src1:"Tony.mp3",
  scr2:"Marco Teaser Theme  Unni Mukundan  Shareef Muhammed  Haneef Adeni  Ravi Basrur.mp3",
  src3:"Kaththi Theme…The Sword of Destiny - Full Audio.m4a",
  src4:"Devara _ The Revelation BGM  Jr. NTR  Anirudh  High Quality BGM  FLM  Nadh Brothers.mp3",
